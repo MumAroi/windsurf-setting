@@ -1,0 +1,41 @@
+{
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "Fira Code",
+    "editor.stickyScroll.enabled": true,
+    "editor.fontLigatures": true,
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "editor.fontSize": 14,
+    "workbench.editor.openSideBySideDirection": "down",
+    "workbench.sideBar.location": "right",
+    "redhat.telemetry.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "biomejs.biome"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+        "editor.semanticHighlighting.enabled": true
+    },
+    "svelte.enable-ts-plugin": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "sync.autoUpload": false,
+    "sync.autoDownload": false,
+    "sync.gist": "35474edba011b645c90150cb4c8090f3",
+    "syncSettings.confirmSync": true,
+}
