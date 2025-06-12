@@ -4,8 +4,8 @@ imgildev.vscode-code-log-plus: '{"version":"1.6.0"}'
 streetsidesoftware.code-spell-checker: '{"showDecorations":true}'
 vadimcn.vscode-lldb: '{"lastLaunchedVersion":"1.11.5"}'
 vincaslt.highlight-matching-tag: '{"hmtVersion":"0.10.1"}'
-WallabyJs.quokka-vscode: '{"corePath":"./wallaby/client","quokka.syncSettings":[{"fileName":"~/.quokka/.vscode.settings","content":"1747620458752"},{"fileName":"~/.quokka/.qid","content":"64552ad8-291b-432d-8b0e-6e34b12149ca"},{"fileName":"~/.quokka/.qlc"},{"fileName":"~/.quokka/config.json","content":"{\"pro\":false}"},{"fileName":"~/.quokka/notifications.json","content":"{}"},{"fileName":"~/.quokka/startPage.json","content":"{\"version\":17}"},{"fileName":"~/.quokka/user.data"},{"fileName":"~/.quokka/user.id"},{"fileName":"~/.wallaby/.ol"}],"quokka.country":"TH","quokka.lastCountryCheck":"1744794844837"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":8},{"id":"workbench.view.extension.gitlensInspect","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.wallaby","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.prismaActivitybar","pinned":false,"visible":false,"order":11}]'
+WallabyJs.quokka-vscode: '{"corePath":"./wallaby/client","quokka.syncSettings":[{"fileName":"~/.quokka/.vscode.settings","content":"1749701537095"},{"fileName":"~/.quokka/.qid"},{"fileName":"~/.quokka/.qlc"},{"fileName":"~/.quokka/config.json"},{"fileName":"~/.quokka/notifications.json"},{"fileName":"~/.quokka/startPage.json"},{"fileName":"~/.quokka/user.data"},{"fileName":"~/.quokka/user.id"},{"fileName":"~/.wallaby/.ol"}],"quokka.country":"TH","quokka.lastCountryCheck":"1744794844837"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlens","pinned":false,"visible":false,"order":8},{"id":"workbench.view.extension.gitlensInspect","pinned":false,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.prismaActivitybar","pinned":false,"visible":false,"order":14},{"id":"workbench.view.extension.rustSyntaxTreeContainer","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.cspell-info-explorer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.cspell-regexp-explorer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.wallaby","pinned":true,"visible":false,"order":13}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
   in\":true,\"views\":[{},{},{},{\"when\":\"timelineHasProvider\"},{\"when\":\"\
@@ -102,20 +102,9 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   0\"},{\"when\":\"testing.isTestCoverageOpen\"}]},{\"id\":\"workbench.view.ext\
   ension.references-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"Ref\
   erences\",\"isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\
-  \"}]},{\"id\":\"workbench.view.extension.cspell-info-explorer\",\"iconUrl\":{\
-  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-c\
-  hecker-4.0.47-universal/resources/dark/check_circle.svg\",\"scheme\":\"file\"\
-  },\"name\":\"Spell Checker
-  Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"cSpell.context.displayCSpel\
-  lInfo\"}]},{\"id\":\"workbench.view.extension.cspell-regexp-explorer\",\"icon\
-  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-\
-  spell-checker-4.0.47-universal/resources/dark/check_circle.svg\",\"scheme\":\
-  \"file\"},\"name\":\"Regular
-  Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
-  mental.enableRegexpView\"}]},{\"id\":\"workbench.view.extension.gitlens\",\"t\
-  hemeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":fa\
-  lse,\"views\":[{},{\"when\":\"!config.gitlens.views.scm.grouped.views.launchp\
-  ad &&
+  \"}]},{\"id\":\"workbench.view.extension.gitlens\",\"themeIcon\":{\"id\":\"gi\
+  tlens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\":false,\"views\":[{},{\"wh\
+  en\":\"!config.gitlens.views.scm.grouped.views.launchpad &&
   !gitlens:views:scm:grouped:views:launchpad\"},{\"when\":\"config.gitlens.clou\
   dPatches.enabled && gitlens:gk:organization:drafts:enabled &&
   !gitlens:hasVirtualFolders &&
@@ -136,34 +125,46 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
   name\":\"GitLens
   Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
   s.enabled && gitlens:views:patchDetails:mode &&
-  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.rustSyntaxTreeCont\
-  ainer\",\"themeIcon\":{\"id\":\"list-tree\"},\"name\":\"Rust Syntax
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extension.prismaActivitybar\
+  \",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/prisma.prisma-6\
+  .9.1-universal/prisma_icon_large.svg\",\"scheme\":\"file\"},\"name\":\"Prisma\
+  \",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.extension.rus\
+  tSyntaxTreeContainer\",\"themeIcon\":{\"id\":\"list-tree\"},\"name\":\"Rust
+  Syntax
   Tree\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.rust-analyzer.showSy\
   ntaxTree &&
-  inRustProject\"}]},{\"id\":\"workbench.view.extension.wallaby\",\"iconUrl\":{\
-  \"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/wallabyjs.quokka-vscode-1.0.724\
-  -universal/images/logo-outline.svg\",\"scheme\":\"file\"},\"name\":\"Wallaby
+  inRustProject\"}]},{\"id\":\"workbench.view.extension.cspell-info-explorer\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware\
+  .code-spell-checker-4.0.47-universal/resources/dark/check_circle.svg\",\"sche\
+  me\":\"file\"},\"name\":\"Spell Checker
+  Info\",\"isBuiltin\":false,\"views\":[{\"when\":\"cSpell.context.displayCSpel\
+  lInfo\"}]},{\"id\":\"workbench.view.extension.cspell-regexp-explorer\",\"icon\
+  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-\
+  spell-checker-4.0.47-universal/resources/dark/check_circle.svg\",\"scheme\":\
+  \"file\"},\"name\":\"Regular
+  Expressions\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.cSpell.experi\
+  mental.enableRegexpView\"}]},{\"id\":\"workbench.view.extension.wallaby\",\"i\
+  conUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/wallabyjs.quokka-vsco\
+  de-1.0.724-universal/images/logo-outline.svg\",\"scheme\":\"file\"},\"name\":\
+  \"Wallaby
   Tools\",\"isBuiltin\":false,\"views\":[{\"when\":\"quokka.prevGenGuiEnabled &&
-  quokka.startedAtLeastOnce\"}]},{\"id\":\"workbench.view.extension.prismaActiv\
-  itybar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/prisma.pr\
-  isma-6.9.0-universal/prisma_icon_large.svg\",\"scheme\":\"file\"},\"name\":\"\
-  Prisma\",\"isBuiltin\":false,\"views\":[{}]}]"
+  quokka.startedAtLeastOnce\"}]}]"
 workbench.activityBar.location: default
 workbench.auxiliaryBar.size: "405"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["vue",true],["java-properties",true],["java",true],["svelte",true],["toml",true],["dockercompose",true],["plaintext",true],["prisma",true],["typescript",true],["sql",true],["jsonc",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["java-properties",true],["java",true],["svelte",true],["toml",true],["prisma",true],["typescript",true],["sql",true],["yaml",true],["plaintext",true],["jsonc",true],["dockercompose",true],["dotenv",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"rustDependencies","isHidden":false},{"id":"sqltoolsViewConnectionExplorer","isHidden":false},{"id":"sqltoolsViewBookmarksExplorer","isHidden":false},{"id":"sqltoolsViewHistoryExplorer","isHidden":false},{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false},{"id":"vscode-containers.views.containers","isHidden":false},{"id":"vscode-containers.views.images","isHidden":false},{"id":"vscode-containers.views.registries","isHidden":false},{"id":"vscode-containers.views.networks","isHidden":false},{"id":"vscode-containers.views.volumes","isHidden":false},{"id":"vscode-containers.views.dockerContexts","isHidden":false},{"id":"vscode-containers.views.help","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.lastNonMaximizedHeight: "300"
 workbench.panel.lastNonMaximizedWidth: "300"
 workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
 workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
-workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.quokka-output","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.cspellPanel","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.quokka-output","pinned":true,"visible":false,"order":8},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.0.47-universal/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
-  Checker","isBuiltin":false,"views":[{},{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[{"when":"gitlens:plus:enabled
   && !gitlens:disabled"},{"when":"gitlens:plus:enabled &&
-  !gitlens:disabled"}]},{"id":"workbench.view.extension.quokka-output","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/wallabyjs.quokka-vscode-1.0.724-universal/images/logo-outline.svg","scheme":"file"},"name":"Quokka","isBuiltin":false,"views":[{"when":"quokka.hasActiveSession
+  !gitlens:disabled"}]},{"id":"workbench.view.extension.cspellPanel","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/streetsidesoftware.code-spell-checker-4.0.47-universal/resources/dark/check_circle.svg","scheme":"file"},"name":"Spell
+  Checker","isBuiltin":false,"views":[{},{}]},{"id":"workbench.view.extension.quokka-output","iconUrl":{"$mid":1,"path":"%%EXTENSION_DATA_PATH%%/wallabyjs.quokka-vscode-1.0.724-universal/images/logo-outline.svg","scheme":"file"},"name":"Quokka","isBuiltin":false,"views":[{"when":"quokka.hasActiveSession
   &&
   !quokka.prevGenGuiEnabled"}]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
@@ -188,5 +189,5 @@ workbench.view.extension.sqltoolsActivityBarContainer.state.hidden:
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.remote.state.hidden: '[{"id":"windsurfDevContainers","isHidden":false},{"id":"windsurfSSHHosts","isHidden":false},{"id":"windsurfWslTargets","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "33"
+workbench.views.extensions.installed.size: "34"
 zokugun.cron-tasks: '{"version":"0.2.1"}'

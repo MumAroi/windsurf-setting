@@ -28,6 +28,8 @@ enabled:
     uuid: 445ba381-f232-4150-9056-d790bd76d698
   - id: LyonSyonII.rust-syntax
     uuid: f024f98c-892f-4bcd-9a22-ec1ce23f88bf
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: oderwat.indent-rainbow
     uuid: eaa2127d-cb69-4ab9-8505-a60c9ee5f28b
   - id: peterfh.linesinfostatusbar
