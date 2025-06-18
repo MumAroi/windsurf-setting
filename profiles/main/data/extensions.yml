@@ -60,11 +60,11 @@ enabled:
     uuid: bee31e34-a44b-4a76-9ec2-e9fd1439a0f6
   - id: vincaslt.highlight-matching-tag
     uuid: aae00486-7e92-42b3-91b0-2b419e4f3875
+  - id: vscjava.vscode-java-pack
+    uuid: 96f11e1f-1a46-4592-b084-f025b2c2a81f
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
   - id: Vue.volar
     uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
-  - id: WallabyJs.quokka-vscode
-    uuid: aae0701b-111f-49c1-9000-abd37a442f28
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

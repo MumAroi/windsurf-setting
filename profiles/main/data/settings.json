@@ -38,4 +38,5 @@
     "sync.autoDownload": false,
     "sync.gist": "35474edba011b645c90150cb4c8090f3",
     "syncSettings.confirmSync": true,
+    "quokka.showOutputOnStart": false,
 }
