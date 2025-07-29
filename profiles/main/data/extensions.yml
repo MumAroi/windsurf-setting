@@ -22,12 +22,12 @@ enabled:
     uuid: a6a0c5b2-d078-4bf5-a9ee-4e37054414b3
   - id: foxundermoon.shell-format
     uuid: 5fb19573-2183-4cf2-b53d-0fb869dae7ae
-  - id: imgildev.vscode-code-log-plus
-    uuid: 7fde7659-f2b5-408c-9202-b4911c13ff86
   - id: kamikillerto.vscode-colorize
     uuid: 445ba381-f232-4150-9056-d790bd76d698
   - id: LyonSyonII.rust-syntax
     uuid: f024f98c-892f-4bcd-9a22-ec1ce23f88bf
+  - id: mechatroner.rainbow-csv
+    uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: mikestead.dotenv
     uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
   - id: oderwat.indent-rainbow
@@ -50,6 +50,8 @@ enabled:
     uuid: 05411821-e468-42a3-9e78-dcd98838a15a
   - id: streetsidesoftware.code-spell-checker
     uuid: f6dbd813-b0a0-42c1-90ea-10dde9d925a7
+  - id: sumneko.lua
+    uuid: 3a15b5a7-be12-47e3-8445-88ee3eabc8b2
   - id: svelte.svelte-vscode
     uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
   - id: tamasfe.even-better-toml
@@ -62,5 +64,9 @@ enabled:
     uuid: aae00486-7e92-42b3-91b0-2b419e4f3875
   - id: vscodevim.vim
     uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: Vue.volar
+    uuid: a95ee795-1576-4ffa-acda-8d6e6a95c584
+  - id: WallabyJs.quokka-vscode
+    uuid: aae0701b-111f-49c1-9000-abd37a442f28
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
